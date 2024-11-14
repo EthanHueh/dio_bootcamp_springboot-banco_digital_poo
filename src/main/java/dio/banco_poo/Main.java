@@ -45,11 +45,6 @@ public class Main {
 				case 5:
 					System.out.println("Saindo do programa...");
 					return;
-
-				case 999:
-					System.out.println("Saindo do programa...");
-					sc.close();
-					return;
 			
 				default:
 					System.out.println("Opcao inexistente!");
